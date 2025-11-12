@@ -7,6 +7,9 @@ que incluye dos archivos:
 
 2.- practica1a mostrando qué hilo tiene lock.py, el cual es el mismo archivo, pero editado para responder esta pregunta:
     Ejercicios para el Estudiante: Modificar el código para que muestre qué hilo obtiene el lock
+=====================================================================
+Los archivos proceso.py, proceso2.py, proceso3.py son otros arhivos de las actividades en clase, no tiene nada que ver con las prácticas 1 o 2.
+=====================================================================
 
 ----------------------------------Práctica de procesos------------------------------------
 
